@@ -1,3 +1,3 @@
 document.addEventListener('DOMContentLoaded', () => {
-    alert('Welcome to Dhruv Kumar\'s Portfolio!');
+    console.log('Welcome to Dhruv Kumar\'s Portfolio!');
 });
